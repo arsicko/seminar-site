@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Спасибо</title>
+</head>
+
+<body style="font-family:Arial;text-align:center;margin-top:100px">
+
+<h1>Спасибо за регистрацию!</h1>
+
+<p>Ваша заявка на участие в семинаре принята.</p>
+
+<a href="index.html">Вернуться на главную</a>
+
+</body>
+</html>м
